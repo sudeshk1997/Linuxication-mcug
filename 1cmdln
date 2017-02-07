@@ -1,0 +1,7 @@
+echo "Command is:$0"
+echo "Value of first argument is:$1"
+echo "Value of first argument is:$2"
+echo "Value of first argument is:$3"
+echo "Value of first argument is:$4"
+echo "Number of elements is:$#"
+echo "values of array is:$@"
